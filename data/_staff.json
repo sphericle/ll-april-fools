@@ -1,0 +1,37 @@
+[
+    {
+        "role": "owner",
+        "name": "DJ JDK",
+        "link": "https://open.spotify.com/artist/2uWGPUfNIuknG4DCdhSOTL"
+    },
+    {
+        "role": "owner",
+        "name": "Poke Zach",
+        "link": "https://youtube.com/@lookatthishumongousstick"
+    },
+    {
+        "role": "owner",
+        "name": "Bocopter",
+        "link": "https://youtube.com/@bocopter"
+    },
+    {
+        "role": "helper",
+        "name": "JamesCharles",
+        "link": "https://www.youtube.com/@skiptracingclub"
+    },
+    {
+        "role": "helper",
+        "name": "d",
+        "link": "https://youtu.be/ineHGnSAhKA?si=_pwuAz5poJqpWysq"
+    },
+    {
+        "role": "helper",
+        "name": "sphericle",
+        "link": "https://www.youtube.com/@skiptracingclub"
+    },
+    {
+        "role": "dev",
+        "name": "skip",
+        "link": "https://www.youtube.com/@zsphericle"
+    }
+]
